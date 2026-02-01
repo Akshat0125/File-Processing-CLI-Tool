@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Smith",
+        "email": "alice@example.com",
+        "active": true
+    },
+    {
+        "id": 2,
+        "name": "Bob Jones",
+        "email": "bob@example.com",
+        "active": false
+    }
+]
